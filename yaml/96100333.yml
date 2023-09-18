@@ -1,0 +1,29 @@
+---
+id: 96100333
+name: Triamid Pulse
+type: Trap Card
+frameType: trap
+desc: |-
+  Once per turn: You can banish 2 cards from your Graveyard (any combination of Rock-Type monsters or Field Spell Cards), then activate 1 of these effects;
+  ● Target 1 other face-up card on the field; destroy it.
+  ● Target 1 Rock-Type monster in your Graveyard; Special Summon it in Defense Position.
+  ● Target up to 3 Field Spell Cards in your Graveyard; shuffle them into the Deck, then draw 1 card.
+race: Continuous
+archetype: Triamid
+card_sets:
+- set_name: The Dark Illusion
+  set_code: TDIL-EN074
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '1.27'
+card_images:
+- id: 96100333
+  image_url: https://images.ygoprodeck.com/images/cards/96100333.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/96100333.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/96100333.jpg
+card_prices:
+- cardmarket_price: '0.27'
+  tcgplayer_price: '0.27'
+  ebay_price: '1.47'
+  amazon_price: '0.49'
+  coolstuffinc_price: '0.25'
